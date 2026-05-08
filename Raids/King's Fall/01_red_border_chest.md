@@ -1,3 +1,3 @@
 # Red Border Chest
 
-![image](@img.red_border_symbol)
+@img.red_border_symbol
