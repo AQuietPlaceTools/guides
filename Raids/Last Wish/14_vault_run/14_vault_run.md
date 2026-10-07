@@ -4,8 +4,8 @@
 - When they pick up their Eye of Riven, their room closes and another room opens
 - the other players call out which room has opened.
 - The trapped player heads to the open room using the available corridors.
-- The player holding the Eye gets a buff: Penumbral or Antumbral Taken Essence
-- This debuff tells which plate the player with the Eye must go to. Let's say the player has the Antumbral debuff.
+- The player holding the Eye gets a debuff: Penumbra or Antumbra
+- This debuff tells which plate the player with the Eye must go to. Let's say the player has the Antumbra debuff.
 - The player goes to plate S (in our example) and uses their grenade button on the plate. If the player picked the wrong plate, they die.
 - Meanwhile, the other 2 runners do exactly the same thing.
 - Once all 3 plates have been validated, start the whole process over from the beginning.
